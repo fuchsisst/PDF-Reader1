@@ -1,0 +1,20 @@
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\bin\Debug\PDF Reader1.exe.config
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\bin\Debug\PDF Reader1.exe
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\bin\Debug\PDF Reader1.pdb
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\bin\Debug\Geckofx-Core.dll
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\bin\Debug\Geckofx-Winforms.dll
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\bin\Debug\Geckofx-Core.pdb
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\obj\Debug\PDF Reader1.csprojAssemblyReference.cache
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\obj\Debug\PDF_Reader1.Form1.resources
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\obj\Debug\PDF_Reader1.Properties.Resources.resources
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\obj\Debug\PDF Reader1.csproj.GenerateResource.cache
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\obj\Debug\PDF Reader1.csproj.CoreCompileInputs.cache
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\obj\Debug\PDF Reader1.csproj.CopyComplete
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\obj\Debug\PDF Reader1.exe
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\obj\Debug\PDF Reader1.pdb
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\bin\Debug\Interop.PDFXCviewAxLib.dll
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\bin\Debug\AxInterop.PDFXCviewAxLib.dll
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\obj\Debug\Interop.PDFXCviewAxLib.dll
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\obj\Debug\AxInterop.PDFXCviewAxLib.dll
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\obj\Debug\PDF Reader1.csproj.ResolveComReference.cache

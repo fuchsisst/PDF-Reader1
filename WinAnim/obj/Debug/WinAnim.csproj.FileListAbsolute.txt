@@ -1,0 +1,9 @@
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\WinAnim\bin\Debug\WinAnim.exe.config
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\WinAnim\bin\Debug\WinAnim.exe
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\WinAnim\bin\Debug\WinAnim.pdb
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\WinAnim\obj\Debug\WinAnim.Form1.resources
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\WinAnim\obj\Debug\WinAnim.Properties.Resources.resources
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\WinAnim\obj\Debug\WinAnim.csproj.GenerateResource.cache
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\WinAnim\obj\Debug\WinAnim.csproj.CoreCompileInputs.cache
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\WinAnim\obj\Debug\WinAnim.exe
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\WinAnim\obj\Debug\WinAnim.pdb

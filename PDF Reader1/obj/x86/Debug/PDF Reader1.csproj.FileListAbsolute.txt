@@ -1,0 +1,15 @@
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\bin\x86\Debug\PDF Reader1.exe.config
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\bin\x86\Debug\PDF Reader1.exe
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\bin\x86\Debug\PDF Reader1.pdb
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\bin\x86\Debug\Geckofx-Core.dll
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\bin\x86\Debug\Geckofx-Winforms.dll
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\bin\x86\Debug\Geckofx-Core.pdb
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\bin\x86\Debug\Geckofx-Winforms.pdb
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\obj\x86\Debug\PDF Reader1.csprojAssemblyReference.cache
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\obj\x86\Debug\PDF_Reader1.Form1.resources
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\obj\x86\Debug\PDF_Reader1.Properties.Resources.resources
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\obj\x86\Debug\PDF Reader1.csproj.GenerateResource.cache
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\obj\x86\Debug\PDF Reader1.csproj.CoreCompileInputs.cache
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\obj\x86\Debug\PDF Reader1.csproj.CopyComplete
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\obj\x86\Debug\PDF Reader1.exe
+C:\Users\vital\OneDrive\Рабочий стол\.Net\PDF Reader1\PDF Reader1\obj\x86\Debug\PDF Reader1.pdb
